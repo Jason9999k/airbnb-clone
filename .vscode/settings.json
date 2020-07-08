@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Users\\Jason\\.virtualenvs\\airbnb-clone-aAphIwZV\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true,
+    // 자동설정
+    "python.formatting.provider": "black",
+    // 포맷 블랙
+    "python.linting.flake8Args": [
+        "--max-line-length=91"
+    ]
+}
